@@ -1,8 +1,8 @@
-#CHAT APP
+# CHAT APP
 
 ## This is just a simple chat app to train the use of sockets. I plan to update the app over time.
 
-### To run this aplication, clone this and run in terminal:
+### To run this aplication, clone this git and run in terminal:
 ```
 npm install
 
